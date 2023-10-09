@@ -1,0 +1,10 @@
+---
+metadata:
+  version: 1
+sources:
+  wp8:
+    description: service input data 
+    driver: pattern_cat
+    args:
+      urlpath: "/work/bk1318/Data_Repository/wp8/{foo}_{bar}.nc"
+      driver: netcdf
