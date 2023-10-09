@@ -8,3 +8,4 @@ dependencies:
   - jupyterlab
   - intake
   - xarray  
+  - python-swiftclient
