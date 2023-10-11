@@ -17,7 +17,8 @@ https://jupyterhub.dkrz.de/
 * additinal 30 GB for each user
 
 
-See ![CLINT deliverable D-8.2 document](https://docs.google.com/document/d/1CQ85H5fTAV5sD6MihWQkQlb-OOYqlC-Z/)
+See CLINT deliverable D-8.2 document:
+https://docs.google.com/document/d/1CQ85H5fTAV5sD6MihWQkQlb-OOYqlC-Z
 
 ## Links
 
