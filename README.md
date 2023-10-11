@@ -10,7 +10,9 @@ https://jupyterhub.dkrz.de/
 
 ## Links
 
+* https://luv.dkrz.de/
 * https://docs.dkrz.de/
+* https://docs.dkrz.de/doc/dataservices/finding_and_accessing_data/index.html
 * https://jupyterhub.dkrz.de/
 * https://nextcloud.dkrz.de/
 * https://tutorials.dkrz.de/tutorial_intake-1-introduction.html
