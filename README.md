@@ -14,10 +14,11 @@ https://jupyterhub.dkrz.de/
 
 * Root folder: `/work/bk1013/Data_Repository`
 * 60 TB
-* additinal 30 GB for each user
+* additional 30 GB for each user
 
 
 See CLINT deliverable D-8.2 document:
+
 https://docs.google.com/document/d/1CQ85H5fTAV5sD6MihWQkQlb-OOYqlC-Z
 
 ## Links
